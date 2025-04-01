@@ -9,10 +9,8 @@
 > 역할: 데이터 인프라 설계, 동적 도매 데이터 ETL/ELT, 데이터 시각화, ML
 
 <table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/23607582-f594-4328-a929-8fbe22112e92" width="900">
-    <img src="https://github.com/user-attachments/assets/0038566d-2733-4aaf-aa7f-0546c69dc9e4" width="900"></td>
-  </tr>
+  <tr><img src="https://github.com/user-attachments/assets/23607582-f594-4328-a929-8fbe22112e92" width="900"></tr>
+  <tr><img src="https://github.com/user-attachments/assets/0038566d-2733-4aaf-aa7f-0546c69dc9e4" width="900"></tr>
 </table>
 
 
@@ -37,8 +35,8 @@ Description
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b43b51ca-5d13-4b25-80ce-ae575f00551f" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/c60d4a38-c62c-4907-b86a-539f0e5dba86" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/b43b51ca-5d13-4b25-80ce-ae575f00551f" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/c60d4a38-c62c-4907-b86a-539f0e5dba86" width="400"></td>
   </tr>
 </table>
 
